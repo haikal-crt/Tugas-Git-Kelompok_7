@@ -1,2 +1,3 @@
 Ini adalah perubahan dari anggota haikal
 tes git graph
+tes git graph oleh haikal
