@@ -1,1 +1,2 @@
 Ini adalah perubahan dari anggota haikal
+tes git graph
